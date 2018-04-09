@@ -7,7 +7,7 @@ public class TicT{
 		//System.out.println(gameOne);
 		//Scanner scan = new Scanner(System.in);
 		//System.out.println("How many players?");
-		//int players = scan.nextInt();
+		//need to implement cpu but first will do two player
 		gameOne.play();
 		
 	}
